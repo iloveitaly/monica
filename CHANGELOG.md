@@ -109,6 +109,7 @@
 
 * Use Unknown as default gender
 * Better padding and text about Me as a contact on Settings page
+* Email address can be entered on the 'Add person' screen
 
 ### Fixes:
 
