@@ -104,11 +104,13 @@
 * Add an artisan command to create an account
 * Add the notion of AddressBooks
 * Allow customization of life event types
+* Order introductions contact list by first and last name
 
 ### Enhancements:
 
 * Use Unknown as default gender
 * Better padding and text about Me as a contact on Settings page
+* Email address can be entered on the 'Add person' screen
 
 ### Fixes:
 
